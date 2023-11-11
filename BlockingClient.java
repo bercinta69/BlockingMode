@@ -5,6 +5,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
+//public class
 public class BlockingClient {
     public static void main(String[] args) {
         String serverAddress = "localhost"; // Alamat server
